@@ -1,0 +1,1 @@
+# hotel_db_base_simple
